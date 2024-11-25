@@ -6,6 +6,6 @@ In this project, we will analyze video game critic and user scores as well as sa
 games released since 1977. We will search for a golden age of video games by identifying release years that
 users and critics liked best, and you'll explore the business side of gaming by looking at game sales data.
 Our search will involve joining datasets and comparing results with set theory. we will also filter, group, and
-order data. Make sure you brush up on these skills before trying this project! The database contains two
+order data. The database contains two
 tables. Each table has been limited to 400 rows for this project, but you can find the complete dataset with
 over 13,000 games on Kaggle.
